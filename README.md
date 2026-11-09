@@ -12,7 +12,7 @@ Computer Engineer focused on **AI, computer vision and automation**. I enjoy tur
 
 ## 🚀 Projects
 
-### [FinWizard](https://github.com/kaplancanali/FINVISARD)
+### [FinWizard](https://github.com/kaplancanali/FinWizard)
 AI-powered financial analysis platform that detects speculation, measures manipulation risk and delivers explainable, multi-layer market intelligence. FastAPI backend + Flutter mobile app.
 
 ### [Car Detection with YOLO](https://github.com/kaplancanali/CarDetectwithYOLO)
