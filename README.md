@@ -44,12 +44,12 @@ When an idea needs an interface, I build that part too. Usually that means Next.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaplancanali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaplancanali&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="languages"/>
+<img height="180" src="https://raw.githubusercontent.com/kaplancanali/kaplancanali/output/cards/3-stats.svg" alt="stats"/>
+<img height="180" src="https://raw.githubusercontent.com/kaplancanali/kaplancanali/output/cards/2-most-commit-language.svg" alt="languages"/>
 
 <img src="https://streak-stats.demolab.com?user=kaplancanali&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaplancanali&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="activity"/>
+<img width="100%" src="https://raw.githubusercontent.com/kaplancanali/kaplancanali/output/cards/0-profile-details.svg" alt="activity"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaplancanali/kaplancanali/output/github-snake-dark.svg"/>
