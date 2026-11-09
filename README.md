@@ -10,14 +10,6 @@ Computer Engineer focused on **AI, computer vision and automation**. I enjoy tur
 - ⚙️ **Workflow automation** — removing repetitive work with code
 - 🌐 **Full-stack web & mobile** — Next.js, FastAPI and Flutter apps
 
-## 🚀 Projects
-
-### [FinWizard](https://github.com/kaplancanali/FinWizard)
-AI-powered financial analysis platform that detects speculation, measures manipulation risk and delivers explainable, multi-layer market intelligence. FastAPI backend + Flutter mobile app.
-
-### [Car Detection with YOLO](https://github.com/kaplancanali/CarDetectwithYOLO)
-Vehicle detection on images and video using the YOLO object detection model.
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,5 +20,5 @@ Vehicle detection on images and video using the YOLO object detection model.
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicankaplan/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaplancanali08@gmail.com)
