@@ -21,6 +21,21 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: tokyonight
+          AUTO_PUSH: false
+          TIME_ZONE: Europe/Istanbul
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Collect summary cards
+        run: |
+          mkdir -p dist/cards
+          find profile-summary-card-output -name '*.svg' | sort
+          cp profile-summary-card-output/tokyonight/*.svg dist/cards/
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
