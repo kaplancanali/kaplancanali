@@ -32,6 +32,7 @@ jobs:
 
       - name: Collect summary cards
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
           mkdir -p dist/cards
           find profile-summary-card-output -name '*.svg' | sort
           cp profile-summary-card-output/tokyonight/*.svg dist/cards/
